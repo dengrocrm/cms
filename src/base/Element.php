@@ -1847,7 +1847,7 @@ abstract class Element extends Component implements ElementInterface
         // Stop allowing setting custom field values directly on the behavior
         /** @var CustomFieldBehavior $behavior */
         $behavior = $this->getBehavior('customFields');
-        $behavior->canSetProperties = false;
+        //$behavior->canSetProperties = false;
     }
 
     /**
