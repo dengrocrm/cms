@@ -1,7 +1,7 @@
 {
   "name": "dengrocrm/cms",
   "description": "Craft CMS",
-  "version": "3.7.37",
+  "version": "3.7.39",
   "keywords": [
     "cms",
     "craftcms",
@@ -99,5 +99,8 @@
       "yiisoft/yii2-composer": true,
       "craftcms/plugin-installer": true
     }
+  },
+  "replace": {
+    "craftcms/cms":"3.7.36"
   }
 }
