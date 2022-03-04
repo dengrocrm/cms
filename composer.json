@@ -1,7 +1,7 @@
 {
   "name": "dengrocrm/cms",
   "description": "Craft CMS",
-  "version": "3.7.39",
+  "version": "3.7.40",
   "keywords": [
     "cms",
     "craftcms",
@@ -15,9 +15,6 @@
       "homepage": "https://pixelandtonic.com/"
     }
   ],
-  "replace": {
-    "craftcms/cms":"3.7.36"
-  }
   "support": {
     "email": "support@craftcms.com",
     "issues": "https://github.com/craftcms/cms/issues?state=open",
